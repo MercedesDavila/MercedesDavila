@@ -11,7 +11,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-mercedes-davila-vazquez/) 
 [![Mail Badge](https://img.shields.io/badge/-Correo-0078D4?style=flat&labelColor=0078D4&logo=Microsoft-Outlook&logoColor=white)](mailto:mmdavila@outlook.com)
-[![CV Badge](https://img.shields.io/badge/-CV-8CA1AF?style=flat&labelColor=8CA1AF&logo=Read-the-Docs&logoColor=white)](https://drive.google.com/file/d/1BunB81P6cI9IgDrkxVDv8xCC6xwu18Co/view?usp=sharing)
+[![CV Badge](https://img.shields.io/badge/-CV-8CA1AF?style=flat&labelColor=8CA1AF&logo=Read-the-Docs&logoColor=white)](https://github.com/MercedesDavila/MercedesDavila/blob/master/Documentos/CV_M.Mercedes_D%C3%A1vila_V%C3%A1zquez.pdf)
 
 <br>
 
@@ -40,12 +40,5 @@
 
 
 <br>
-
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=MercedesDavila&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 

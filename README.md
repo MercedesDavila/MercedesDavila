@@ -12,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-mercedes-davila-vazquez/) 
 [![Portafolio Badge](https://img.shields.io/badge/-Portafolio-0e76a8?style=flat&labelColor=0e76a8&logo=plex&logoColor=white)](https://mercedesdavila.github.io/) 
 [![Mail Badge](https://img.shields.io/badge/-Correo-0078D4?style=flat&labelColor=0078D4&logo=Microsoft-Outlook&logoColor=white)](mailto:mmdavila@outlook.com)
-[![CV Badge](https://img.shields.io/badge/-CV-8CA1AF?style=flat&labelColor=8CA1AF&logo=Read-the-Docs&logoColor=white)](https://drive.google.com/file/d/1pKNiOxgK-BrdMhpBjTGKZ1uEwQ5k7jo-/view?usp=sharing)
+[![CV Badge](https://img.shields.io/badge/-CV-0e76a8?style=flat&labelColor=0e76a8&logo=Read-the-Docs&logoColor=white)](https://drive.google.com/file/d/1pKNiOxgK-BrdMhpBjTGKZ1uEwQ5k7jo-/view?usp=sharing)
 
 <br>
 
